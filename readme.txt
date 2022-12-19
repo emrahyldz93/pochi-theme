@@ -1,5 +1,7 @@
 https://emrahyildiz.com
 
+https://emrahyildiz.com/wp-content/uploads/2021/10/pearl-wordpress-tema.jpg
+
 Pearl Personal Blog, Portfolio and CV Theme
 Features
 Light and Dark Version
