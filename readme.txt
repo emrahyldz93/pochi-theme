@@ -1,5 +1,6 @@
 https://emrahyildiz.com
-![My Image](screenshot.png)
+![My Image](https://github.com/emrahyldz93/pochi-theme/blob/main/screenshot.png)
+https://github.com/emrahyldz93/pochi-theme/blob/main/screenshot.png
 
 
 Pearl Personal Blog, Portfolio and CV Theme
