@@ -1,3 +1,5 @@
+https://emrahyildiz.com
+
 Pearl Personal Blog, Portfolio and CV Theme
 Features
 Light and Dark Version
