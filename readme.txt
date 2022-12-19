@@ -1,5 +1,5 @@
 https://emrahyildiz.com
-![image description](screenshot.png)
+![My Image](screenshot.png)
 
 
 Pearl Personal Blog, Portfolio and CV Theme
