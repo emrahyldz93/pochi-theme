@@ -2,21 +2,4 @@ https://emrahyildiz.com
 
 image : https://github.com/emrahyldz93/pochi-theme/blob/main/screenshot.png
 
-Pearl Personal Blog, Portfolio and CV Theme
-Features
-Light and Dark Version
-1+ Header Edition
-1+ Footer Version
-1 Blog & 1 Blog Detail Combination
-2 Portfolio & 1 Portfolio Detail Combination
-6+ pages
-Tons of Unique Items
-Bootstrap 4.x Grid
-100% Responsive for All Devices
-1000+ Icons
-700+ Google Fonts
-Google Maps
-SEO Optimized Code
-Easy Custom available.
-Google Analytics
-Concise code area
+Resume / CV / vCard Template – Pearl is best suited for developers, programmers, designers, freelancers, coders or any other professions. With Pearl and all the ready-made template: Different layouts, Dark &amp; Light mode, 4+ Pre-Built Demo Layouts, creating online resume and CV websites should no longer be a difficult. It is fully responsive, entirely customizable, with a unique web design that will help you win over new clients. Creating a Resume/CV or personal website with Pearl is an effective way to promote yourself and showcase your works.
